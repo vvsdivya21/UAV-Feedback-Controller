@@ -1,6 +1,4 @@
 # UAV-Feedback-Controller
-Here’s a README file tailored for a GitHub repository based on your project description:
-
 UAV Feedback Controller
 
 Overview
@@ -62,8 +60,3 @@ Usage
 	3.	Test in the simulator, adjusting the code for better accuracy, especially in gust conditions if wind handling is enabled.
 	4.	Submit controller.py along with required video recordings showcasing the performance in various scenarios.
 
-Acknowledgments
-
-This project’s simulation framework and instructions were provided by the course instructors, with further insights on throttle mixing available via Cookie Robotics.
-
-This README outlines the project’s purpose, historical context, and practical application in control theory, as well as instructions for setup, implementation, and testing. Let me know if you’d like additional sections or details!
